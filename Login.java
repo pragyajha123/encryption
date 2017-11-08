@@ -1,4 +1,4 @@
-package com.example.pragya.encryption.encryption;
+package com.example.pragya.encryption;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
