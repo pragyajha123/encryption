@@ -1,4 +1,4 @@
-package com.example.pragya.encryption.encryption;
+package com.example.pragya.encryption;
 
 import android.app.Activity;
 import android.os.Bundle;
